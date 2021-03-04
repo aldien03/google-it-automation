@@ -1,7 +1,7 @@
 # google-it-automation
 
 # About this repo
-This is my self documentation while taking the Google IT Automation with Python. I have taken many courses previously but did not manage to saved valuable informations in structured way.
+This is a self documentation while taking the Google IT Automation with Python. I have taken many courses previously but did not manage to saved valuable informations in structured way.
 
 If you haven't taken the course previously, please stay away because the content will spoil your learning journey. 
 
